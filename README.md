@@ -1,6 +1,7 @@
 # login_card_app
 Follow along and coding of a login screen app with Vue.js
 
+Live preview: https://ndenys650.github.io/login_card_app/
 
 Only the Sign Up or Sign in Buttons in the green filled part of the card work.
 
